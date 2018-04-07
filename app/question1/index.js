@@ -21,9 +21,11 @@ const streamApi = {
 const firstChar = (input) => {
   const myStream = Object.create(streamApi);
   myStream.init(input);
-
-  // TODO sua implementacao
-
+  
+  while(myStream.hasNext()){
+    
+  }
+  
   return 'x';
 };
 
