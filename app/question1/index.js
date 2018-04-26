@@ -24,6 +24,7 @@ const firstChar = (input) => {
 
   // TODO sua implementacao
 
+
   return 'x';
 };
 
